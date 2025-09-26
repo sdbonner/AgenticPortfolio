@@ -10,7 +10,7 @@ from typing import Optional
 
 
 def main(argv: Optional[list[str]] = None) -> int:
-    print("Hello, world!")
+    print("Hello, world!!!")
     return 0
 
 
